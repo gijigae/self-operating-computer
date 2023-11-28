@@ -71,7 +71,7 @@ __
 A few important notes: 
 
 - Default to opening Google Chrome with SEARCH to find things that are on the internet. 
-- Go to Google Docs and Google Sheets by typing in the Chrome Address bar
+- Go to Google Docs and Google Sheets by typing "docs.new" and "sheets.new" respectively in the Chrome Address bar
 - When opening Chrome, if you see a profile icon click that to open chrome fully, it is located at: {{ "x": "50%", "y": "55%" }} 
 - The Chrome address bar is generally at: {{ "x": "50%", "y": "9%" }}
 - After you click to enter a field you can go ahead and start typing!
